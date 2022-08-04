@@ -1,0 +1,12 @@
+Tugas Akhir komputasi awan 
+
+Wisnu Darmawan
+
+Koputasi Awan adalah  (Cloud Computing) merupakan gabungan pemanfaatan teknologi komputer
+(‘komputasi’) dan pengembangan berbasis Internet (‘awan’). Komputasi awan adalah sebuah konsep
+pemahaman dalam rangka pembuatan kerangka kerja komputasi secara online lokal (LAN)
+maupun global (internet) dimana terdapat beragam aplikasi maupun data  dan media penyimpanan
+yang dapat diakses dan digunakan secara berbagi (shared service) dan bersamaan
+(simultaneous access) oleh para pengguna yang beragam – mulai dari perseorangan sampai kepada
+kelas pengguna korporasi atau perusahaan. Komputasi awan bisa dianggap sebagai perluasan
+dari virtualisasi.
